@@ -2,6 +2,12 @@
 /*	*Theme Name	: Guardian
 	*Theme Core Functions and Codes
 */
+        function get_gravatar_back($avatar) {
+            $avatar = str_replace(array('http://www.gravatar.com', 'http://0.gravatar.com', 'http://1.gravatar.com', 'http://2.gravatar.com' ), 'https://secure.gravatar.com', $avatar );
+            return $avatar;
+        }
+        add_filter( 'get_avatar', 'get_gravatar_back' );
+
 	define('gr_td' , 'weblizar');
 
 	require( get_template_directory() . '/core/menu/default_menu_walker.php' ); // for Default Menus
