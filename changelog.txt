@@ -18,13 +18,13 @@ Version 1.9.5
 1. Issue removed from the Ticket -> https://themes.trac.wordpress.org/ticket/23434
 
 Version 1.9.4
-1. Issue removed from the Ticket -> https://themes.trac.wordpress.org/ticket/23434 
+1. Issue removed from the Ticket -> https://themes.trac.wordpress.org/ticket/23434
 
 
 Version 1.9.1[10/03/2015]
 1. Translation Related issue.
 2. esc_* functions used.
-3. Prefixd Used. 
+3. Prefixd Used.
 
 Version 1.9[25/02/2015]
 1. Front-Page Static.
@@ -32,7 +32,7 @@ Version 1.9[25/02/2015]
 Version 1.8.3 [ 23-Jan-2015 ]
 1. Removed Minified CSS/JS
 2. Custom Front-Page Option
-3. wp-title support 
+3. wp-title support
 
 
 Version 1.8.2 [ 6-Jan-2015 ]
@@ -73,5 +73,5 @@ Version 1.1 [ 11-Sept-2014]
              -> Widget Managed.
              -> POT files correction / updates
 Version 1.0 [ 13-Aug-2014 ] Release on WPORG.
-	
-			 
+
+

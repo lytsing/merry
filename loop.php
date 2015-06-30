@@ -6,7 +6,7 @@
 		<?php the_post_thumbnail('small_thumbs'); ?>
 		</a>
 		</div>
-		<?php endif; ?>		
+		<?php endif; ?>
         <h3><a href="<?php the_permalink(); ?>"><?php the_title();?></a></h3>
             <ul class="post_meta_links">
             	<li><?php echo get_the_date(); ?></li>
@@ -20,5 +20,5 @@
         <div class="margin_top1"></div>
 		<?php the_content(__('Read more...','weblizar')); ?>
 		</div>
-</div><!-- /# end post -->   
+</div><!-- /# end post -->
 <div class="clearfix divider_dashed9"></div>

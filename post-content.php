@@ -12,7 +12,7 @@ else: ?>
 		</div>
 		<h3><a href="<?php the_permalink(); ?>"><?php the_title();?></a></h3>
 		<ul class="post_meta_links">
-		<li><?php echo get_the_date(); ?></li>				
+		<li><?php echo get_the_date(); ?></li>
                 <li class="post_by"><i><?php _e('by:','weblizar'); ?>&nbsp;</i> <?php the_author(); ?></li>
 				<?php if(get_the_tag_list() != '' ) { ?>
                 <li class="post_categoty"><i><?php _e('in:','weblizar'); ?>&nbsp;</i> <?php the_tags('', ' ', ''); ?></li>
@@ -21,8 +21,8 @@ else: ?>
         </ul>
         <div class="clearfix"></div>
         <div class="margin_top1"></div>
-		<?php endif; ?>            
-		<?php the_content(__('Read more...','weblizar')); 
+		<?php endif; ?>
+		<?php the_content(__('Read more...','weblizar'));
 		$defaults = array(
               'before'           => '<div class="pagination">' . __( 'Pages:','weblizar' ),
               'after'            => '</div>',

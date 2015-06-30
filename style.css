@@ -27,7 +27,7 @@ body {
 	margin: 0 auto 0 auto;
 	background-color:#fff;
 }
-.wrapper_boxed { 
+.wrapper_boxed {
 	margin: auto;
     width: 1240px;
 	background-color:#fff;
@@ -177,7 +177,7 @@ body {
 /* header area adinationals */
 .logo {
 	float: left;
-	width: 25%;	
+	width: 25%;
 }
 .menu_main {
 	float: right;
@@ -232,7 +232,7 @@ body {
 
 /* added web9 */
 .img-circle{
-border-radius: 50%; 
+border-radius: 50%;
 }
 #nth_child_service{
 	clear: right;
@@ -240,7 +240,7 @@ border-radius: 50%;
 }
 .img-left { margin-left:-15px; }
 
-#arrow_box { 
+#arrow_box {
 Padding-left:25%; }
 
 .arrow_box {
@@ -2323,7 +2323,7 @@ content: "\f105";
 margin-right:7px;
 }
 
-ul.faddress li a:before{ 
+ul.faddress li a:before{
 content:none;
 }
 
@@ -4250,7 +4250,7 @@ ul.post_meta_links_small {
 	overflow:hidden;
 	padding-left:20px;
 	position:relative;
-	min-height:80px; 
+	min-height:80px;
 }
 .comment_content .comment_meta{
 	position:relative;
@@ -4285,7 +4285,7 @@ ul.post_meta_links_small {
 }
 #searchform #s{
 	border: 1px solid #e0e0e0;
-	background-color: #fff;	
+	background-color: #fff;
 	height:41px;
 	padding:5px 10px 5px 10px;
 	color: #999;
@@ -4320,7 +4320,7 @@ ul.post_meta_links_small {
 }
 #searchform, #site-searchform #s , .sidebar_widget .site-search-area #s , .footer1  .site-search-area #s{
 	border: 1px solid #e0e0e0;
-	background-color: #fff;	
+	background-color: #fff;
 	height:41px;
 	padding:5px 10px 5px 10px;
 	color: #999;
@@ -4999,28 +4999,28 @@ a.knowmore_but:hover {
 	-ms-animation: rotateWord 8s linear infinite 0s;
 	animation: rotateWord 8s linear infinite 0s;
 }
-.rw-words-1 span:nth-child(2) { 
-    -webkit-animation-delay: 2s; 
-	-moz-animation-delay: 2s; 
-	-o-animation-delay: 2s; 
-	-ms-animation-delay: 2s; 
-	animation-delay: 2s; 
+.rw-words-1 span:nth-child(2) {
+    -webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	-ms-animation-delay: 2s;
+	animation-delay: 2s;
 	color: #fff;
 }
-.rw-words-1 span:nth-child(3) { 
-    -webkit-animation-delay: 4s; 
-	-moz-animation-delay: 4s; 
-	-o-animation-delay: 4s; 
-	-ms-animation-delay: 4s; 
-	animation-delay: 4s; 
-	color: #fff;	
+.rw-words-1 span:nth-child(3) {
+    -webkit-animation-delay: 4s;
+	-moz-animation-delay: 4s;
+	-o-animation-delay: 4s;
+	-ms-animation-delay: 4s;
+	animation-delay: 4s;
+	color: #fff;
 }
-.rw-words-1 span:nth-child(4) { 
+.rw-words-1 span:nth-child(4) {
     -webkit-animation-delay: 6s;
-	-moz-animation-delay: 6s; 
-	-o-animation-delay: 6s; 
-	-ms-animation-delay: 6s; 
-	animation-delay: 6s; 
+	-moz-animation-delay: 6s;
+	-o-animation-delay: 6s;
+	-ms-animation-delay: 6s;
+	animation-delay: 6s;
 	color: #fff;
 }
 
@@ -5338,15 +5338,15 @@ margin-top: 5px;
 
 .mytextwithicon ,.sidebar_widget ul li{
     position:relative;
-}    
+}
 .mytextwithicon:before ,.sidebar_widget ul li:before{
         color:#13afeb;
-        font-family: FontAwesome;        
-		margin:5px;        
+        font-family: FontAwesome;
+		margin:5px;
         content: "\f0da";
 }
 .sidebar_widget .menu ul .sub-menu {
-	margin:0px;	
+	margin:0px;
 	padding:0px;
 }
 .sidebar_widget ul.faddress li img {
@@ -5360,7 +5360,7 @@ margin-top: 5px;
 	max-width:100%;
 }
 .footer1 .site-search-area #s {
-	width: 76% !important; 
+	width: 76% !important;
 }
 .footer1 .tagcloud{
 	background: #262626;
