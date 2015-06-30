@@ -75,8 +75,8 @@
 			
 			
 			//Social media links
-			'contact_email'=>__('guardian@gmail.com','weblizar'),
-			'contact_phone_no'=>__('1 4488 8000 4500','weblizar'),
+			'contact_email'=>__('zhouluzhongxue@163.com','weblizar'),
+			'contact_phone_no'=>__('0771-6880010','weblizar'),
 			'header_section_social_media_enbled'=>'on',
 			'footer_section_social_media_enbled'=>'on',
 			
