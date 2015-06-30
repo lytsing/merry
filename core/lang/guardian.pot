@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../404.php:9
 msgid "Oops... Page Not Found!"
-msgstr ""
+msgstr "呃... 页面不存在"
 
 #: ../../404.php:11
 msgid "Sorry the Page Could not be Found here."
@@ -1261,7 +1261,7 @@ msgstr ""
 
 #: ../../functions.php:25 ../../guardian-default-settings.php:14
 msgid "Our Latest Blog"
-msgstr ""
+msgstr "校园最新动态"
 
 #: ../../functions.php:28 ../../guardian-default-settings.php:27
 msgid "Responsive Theme"
