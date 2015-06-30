@@ -65,7 +65,7 @@
 						{ ?>
 						<img src="<?php echo esc_url($wl_theme_options['upload_image_logo']); ?>" style="height:<?php if($wl_theme_options['height']!='') { echo $wl_theme_options['height']; }  else { "50"; } ?>px; width:<?php if($wl_theme_options['width']!='') { echo $wl_theme_options['width']; }  else { "180"; } ?>px;" />
 						<?php } else { ?>
-							<?php echo "Guardian"; //bloginfo( 'title' ); ?>
+							<?php echo "周鹿中学"; //bloginfo( 'title' ); ?>
 						<?php } ?>
 					</a>
 				</div>

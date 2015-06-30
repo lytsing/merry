@@ -10,22 +10,19 @@
 		{  ?>
 		<div class="one_third animate" data-anim-type="fadeInUp">
 			<div class="siteinfo">
-				<h4 class="lmb"><?php _e('About Guardian',gr_td); ?></h4>
-				<p><?php _e('All the Lorem Ipsum generators on the Internet tend to repeat predefined an chunks as necessary, making this the first true generator on the Internet.
+				<h4 class="lmb"><?php _e('关于周鹿中学',gr_td); ?></h4>
+				<p><?php _e('广西马山县周鹿中学创办于1933年10月6日，现是自治区研究性学习示范学校，自治区普通高中一级学校，全国创建绿色学校活动先进学校。
 					All the Lorem Ipsum generators on the Internet tend to repeat predefined Lorem Ipsum as their default model text, and a search for web sites.',gr_td); ?></p>
 				<br />
 			</div>
 		</div><!-- end site info -->
 		<div class="one_third animate" data-anim-type="fadeInUp">
 			<div class="qlinks">
-				<h4 class="lmb"><?php _e('Custom Menu',gr_td); ?></h4>
+				<h4 class="lmb"><?php _e('导航栏',gr_td); ?></h4>
 				<ul>
 					<li><a href="#"><?php _e('Home',gr_td); ?></a></li>
-					<li><a href="#"><?php _e('Blog',gr_td); ?></a></li>
 					<li><a href="#"><?php _e('Service',gr_td); ?></a></li>
-					<li><a href="#"><?php _e('Portfolio',gr_td); ?></a></li>
 					<li><a href="#"><?php _e('About-us',gr_td); ?></a></li>
-					<li><a href="#"><?php _e('Team',gr_td); ?></a></li>
 					<li><a href="#"><?php _e('Contact -Us',gr_td); ?></a></li>
 				</ul>
 			</div>
@@ -33,15 +30,12 @@
 
 		<div class="one_third last animate" data-anim-type="fadeInUp">
 			<div class="qlinks">
-				<h4 class="lmb"><?php _e('Recent Posts',gr_td); ?></h4>
+				<h4 class="lmb"><?php _e('近期文章',gr_td); ?></h4>
 				<ul>
 					<li><a href="#"><?php _e('Awsome Slidershows',gr_td); ?></a></li>
 					<li><a href="#"><?php _e('Features and Typography',gr_td); ?></a></li>
 					<li><a href="#"><?php _e('Different &amp; Unique Pages',gr_td); ?></a></li>
 					<li><a href="#"><?php _e('Single and Portfolios',gr_td); ?></a></li>
-					<li><a href="#"><?php _e('Recent Blogs or News',gr_td); ?></a></li>
-					<li><a href="#"><?php _e('Post with Image',gr_td); ?></a></li>
-					<li><a href="#"><?php _e('Layered PSD Files',gr_td); ?></a></li>
 				</ul>
 			</div>
 		</div><!-- end links 	-->
