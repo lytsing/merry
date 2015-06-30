@@ -201,8 +201,8 @@
 	function weblizar_scripts()
 	{	
 		// Google fonts 	
-		wp_enqueue_style('OpenSans', '//fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic');
-		wp_enqueue_style('Raleway', '//fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900');		
+		wp_enqueue_style('OpenSans', '//fonts.useso.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic');
+		wp_enqueue_style('Raleway', '//fonts.useso.com/css?family=Raleway:100,200,300,400,500,600,700,800,900');		
 		wp_enqueue_style('stylesheet', get_template_directory_uri() . '/style.css');
 		wp_enqueue_style('font-awesome', get_template_directory_uri() . '/css/font-awesome/css/font-awesome.css');
 		wp_enqueue_style('responsive-leyouts', get_template_directory_uri() . '/css/responsive-leyouts.css');
