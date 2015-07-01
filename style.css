@@ -5476,12 +5476,12 @@ width: 100%;
 	z-index: 100000; /* Above WP toolbar. */
 }
 
-.entry-content p {
+.content_fullwidth p {
   text-indent:2em;
 }
 
-.entry-content p>a>img,
-.entry-content p>img {
+.content_fullwidth p>a>img,
+.content_fullwidth p>img {
   margin-left:-2em;
 }
 
