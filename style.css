@@ -5475,3 +5475,13 @@ width: 100%;
 	width: auto;
 	z-index: 100000; /* Above WP toolbar. */
 }
+
+.entry-content p {
+  text-indent:2em;
+}
+
+.entry-content p>a>img,
+.entry-content p>img {
+  margin-left:-2em;
+}
+
