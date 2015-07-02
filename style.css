@@ -2380,6 +2380,10 @@ content:none;
 	color: #fff;
 }
 
+.siteinfo p {
+	color: #999;
+}
+
 /* copyrights */
 .copyright_info {
 	float: left;
