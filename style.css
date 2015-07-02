@@ -2328,10 +2328,10 @@ content:none;
 }
 
 .qlinks li a {
-	color: #727272;
+	color: #fff;
 }
 .qlinks li a:hover {
-	color: #fff;
+	color: #565a5c;
 }
 .qlinks li a i {
 	margin-right: 3px;
