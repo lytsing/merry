@@ -80,6 +80,10 @@ body {
 	margin-right: 4%;
 	float: left;
 }
+
+.one_third p {
+	text-indent:2em;
+}
 .one_full {
 	width: 100%;
 }
@@ -2382,6 +2386,7 @@ content:none;
 
 .siteinfo p {
 	color: #999;
+	text-indent:2em;
 }
 
 /* copyrights */
