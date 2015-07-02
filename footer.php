@@ -20,9 +20,9 @@
 				<h4 class="lmb"><?php _e('导航栏',gr_td); ?></h4>
 				<ul>
 					<li><a href="#"><?php _e('Home',gr_td); ?></a></li>
+					<li><a href="/about/"><?php _e('学校概况',gr_td); ?></a></li>
+					<li><a href="/contact/"><?php _e('联系我们',gr_td); ?></a></li>
 					<li><a href="http://tieba.baidu.com/f?kw=%E5%91%A8%E9%B9%BF%E4%B8%AD%E5%AD%A6"><?php _e('百度周鹿中学吧',gr_td); ?></a></li>
-					<li><a href="#"><?php _e('About-us',gr_td); ?></a></li>
-					<li><a href="#"><?php _e('Contact -Us',gr_td); ?></a></li>
 				</ul>
 			</div>
 		</div><!-- end links -->
