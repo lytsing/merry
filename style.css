@@ -4024,6 +4024,17 @@ ul.post_meta_links {
 	height: 520px;
 	margin-bottom: 27px;
 }
+
+.blog_postcontent p {
+	text-indent:2em;
+}
+
+.blog_postcontent p>a>img,
+.blog_postcontent p>img {
+	margin-left:-2em;
+}
+
+
 .post_info_content_small {
 	padding: 0px;
 	margin: 0 0 0 4%;
