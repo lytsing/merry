@@ -11,8 +11,7 @@
 		<div class="one_third animate" data-anim-type="fadeInUp">
 			<div class="siteinfo">
 				<h4 class="lmb"><?php _e('关于周鹿中学',gr_td); ?></h4>
-				<p><?php _e('广西马山县周鹿中学创办于1933年10月6日，现是自治区研究性学习示范学校，自治区普通高中一级学校，全国创建绿色学校活动先进学校。
-					All the Lorem Ipsum generators on the Internet tend to repeat predefined Lorem Ipsum as their default model text, and a search for web sites.',gr_td); ?></p>
+				<p><?php _e('广西马山县周鹿中学创办于1933年10月6日，现是自治区研究性学习示范学校，自治区普通高中一级学校，全国创建绿色学校活动先进学校。',gr_td); ?></p>
 				<br />
 			</div>
 		</div><!-- end site info -->
@@ -21,7 +20,7 @@
 				<h4 class="lmb"><?php _e('导航栏',gr_td); ?></h4>
 				<ul>
 					<li><a href="#"><?php _e('Home',gr_td); ?></a></li>
-					<li><a href="#"><?php _e('Service',gr_td); ?></a></li>
+					<li><a href="http://tieba.baidu.com/f?kw=%E5%91%A8%E9%B9%BF%E4%B8%AD%E5%AD%A6"><?php _e('百度周鹿中学吧',gr_td); ?></a></li>
 					<li><a href="#"><?php _e('About-us',gr_td); ?></a></li>
 					<li><a href="#"><?php _e('Contact -Us',gr_td); ?></a></li>
 				</ul>
